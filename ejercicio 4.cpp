@@ -20,3 +20,4 @@ int main() {
     imprimirResultado(buscarPalabra(cad, pal), pal);
     return 0;
 }
+//
